@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Level/MTlevel.umap",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/BP_Drone.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Level/_GENERATED/mtorres5/SM_Drone.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Level/_GENERATED/mtorres5/Arrow_943F84B0.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Level/_GENERATED/mtorres5/Cylinder_42BDE26A.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/M_Drone.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Level/_GENERATED/mtorres5/SM_Bullet.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/SM_Bullet.uasset",
+				"C:/Users/mtorres5/Documents/Unreal Projects/MichaelTUnreal/Content/Actor.uasset"
+			]
+		}
+	]
+}
